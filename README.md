@@ -1,2 +1,2 @@
-# Modelagem-Banco-Dados
+# Banco-Dados-I-Sueli
 Aula da professora Sueli
